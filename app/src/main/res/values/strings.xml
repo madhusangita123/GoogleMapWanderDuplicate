@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WanderDuplicate</string>
+    <string name="title_activity_maps">Wander</string>
+    <string name="normal_map">Normal</string>
+    <string name="hybrid_map">Hybrid</string>
+    <string name="satellite_map">Satellite</string>
+    <string name="terrain_map">Terrain</string>
+    <string name="none">None</string>
+    <string name="dropped_pin">Dropped Pin</string>
+    <string name="street_view_fragment_tag">street_view_panorama</string>
+    <string name="no_street_coverage">This area does not come under STREET VIEW COVERAGE</string>
+</resources>
